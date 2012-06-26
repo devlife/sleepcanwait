@@ -1,0 +1,6 @@
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\bin\Debug\EFEntityNameScrubberExtension.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\bin\Debug\EFEntityNameScrubberExtension.pdb
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\obj\Debug\EFEntityNameScrubberExtension.csprojResolveAssemblyReference.cache
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\obj\Debug\EFEntityNameScrubberExtension.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberExtension\obj\Debug\EFEntityNameScrubberExtension.pdb
