@@ -1,0 +1,7 @@
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\bin\Debug\GetAttribute.Tests.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\bin\Debug\GetAttribute.Tests.pdb
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\bin\Debug\GetAttribute.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\bin\Debug\GetAttribute.pdb
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\obj\Debug\GetAttribute.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\obj\Debug\GetAttribute.Tests.dll
+C:\Users\DevLife\Documents\Source\Git\Sandbox\GetAttribute\GetAttribute.Tests\obj\Debug\GetAttribute.Tests.pdb

@@ -1,0 +1,9 @@
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\bin\Debug\EFEntityNameScrubberVsix.vsix
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\bin\Debug\extension.vsixmanifest
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\bin\Debug\EFEntityNameScrubberExtension.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\bin\Debug\EFEntityNameScrubberExtension.pdb
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\obj\Debug\EFEntityNameScrubberVsix.csprojResolveAssemblyReference.cache
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\obj\Debug\EFEntityNameScrubberVsix.dll
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\obj\Debug\EFEntityNameScrubberVsix.pdb
+C:\Users\DevLife\Documents\Source\Git\sleepcanwait\EFEntityNameScrubberExtension\EFEntityNameScrubberVsix\obj\Debug\extension.vsixmanifest
