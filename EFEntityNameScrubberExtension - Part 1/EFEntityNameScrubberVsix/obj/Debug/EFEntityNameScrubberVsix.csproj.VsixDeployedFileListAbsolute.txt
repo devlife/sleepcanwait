@@ -1,4 +1,0 @@
-C:\Users\DevLife\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Michael Paterson\EFEntityNameScrubberVsix\1.0\\EFEntityNameScrubberExtension.dll
-C:\Users\DevLife\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Michael Paterson\EFEntityNameScrubberVsix\1.0\\extension.vsixmanifest
-C:\Users\DevLife\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Michael Paterson\EFEntityNameScrubberVsix\1.0\\Microsoft.Data.Entity.Design.Extensibility.dll
-C:\Users\DevLife\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Michael Paterson\EFEntityNameScrubberVsix\1.0\\EFEntityNameScrubberExtension.pdb
