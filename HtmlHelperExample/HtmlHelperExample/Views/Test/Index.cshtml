@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Test";
+}
+@model HtmlHelperExample.Models.TestModel
+
+<h2>Test</h2>
+<div class="hero-unit">
+    <h1>@ViewBag.Message</h1>
+    <p>The left textbox uses an if statement within the View.  The right textbox is generated using the IsValidHtmlHelper class.</p>
+    <p>The rendered source is identical.  However, the View is much cleaner when using the IsValidHtmlHelper.</p>
+</div>        
+<div class="row">
+    <div class="span5">
+        @if (Model.IsValid) { 
+        <div class="control-group">
+            @Html.TextBoxFor(m => m.Value, new { disabled = "disabled" })
+        </div>
+        } else {
+        <div class="control-group error">
+            @Html.TextBoxFor(m => m.Value)
+        </div>
+        }
+    </div>
+    <div class="span5">
+        @Html.IsValid().TextBoxFor(Model.IsValid, m => m.Value)
+    </div>
+</div>
