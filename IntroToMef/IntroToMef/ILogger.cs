@@ -1,7 +1,7 @@
 ﻿namespace IntroToMef
 {
-    public interface ILogger
+    internal interface ILogger
     {
-        void Log(string message);
+        void Write(string myMessage);
     }
 }
