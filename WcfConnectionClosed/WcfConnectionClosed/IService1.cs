@@ -7,6 +7,9 @@ namespace WcfConnectionClosed
     public interface IService1
     {
         [OperationContract]
+        bool WorksFine();
+
+        [OperationContract]
         TryEnumWithNoDefaultValueResponse TryEnumWithNoDefaultValue();
 
         [OperationContract]
