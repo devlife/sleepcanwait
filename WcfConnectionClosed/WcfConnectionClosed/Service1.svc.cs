@@ -28,7 +28,8 @@ namespace WcfConnectionClosed
             {
                 var response = new TryDeferredExecutionResponse
                     {
-                        Tables = context.Tables.OrderBy(t => t.Field1)
+                        // Uncomment '.ToList()' to fix the exception
+                        Tables = context.Tables.OrderBy(t => t.Field1)/*.ToList()*/
                     };
 
                 return response; 
