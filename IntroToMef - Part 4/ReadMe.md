@@ -2,7 +2,7 @@ __Intro to MEF - Part 4__
 
 In Part 4 in my series Intro to MEF we take a look at Method Exports.
 
-```
+```cs
 [Export(typeof(Action<string>))]
 public void Send(string message)
 {
@@ -11,10 +11,4 @@ public void Send(string message)
 
 [Import(typeof(Action<string>))]
 public Action<string> MessageSender { get; set; }
-```
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
